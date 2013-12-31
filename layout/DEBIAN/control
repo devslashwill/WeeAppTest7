@@ -1,0 +1,9 @@
+Package: com.whomer.WeeAppTest7
+Name: WeeAppTest7
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An example notification center plugin for iOS 7
+Maintainer: Will Homer
+Author: Will Homer
+Section: Addons (NotificationCenter)

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppBundleID</key>
+	<string>com.apple.stocks</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>WEE_APP_TEST</string>
+	<key>CFBundleExecutable</key>
+	<string>WeeAppTest7</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.whomer.WeeAppTest7</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>WeeAppTest7</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>MinimumOSVersion</key>
+	<string>7.0</string>
+	<key>CFBundleIconFile</key>
+	<string>icon.png</string>
+	<key>SBUIWidgetViewControllers</key>
+	<dict>
+		<key>SBUIWidgetIdiomNotificationCenterToday</key>
+		<string>WeeAppTest7Controller</string>
+	</dict>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+		<integer>2</integer>
+	</array>
+</dict>
+</plist>
